@@ -1,0 +1,7 @@
+﻿  Домашка.cpp
+c:\users\gigabyte\source\repos\домашка\домашка\домашка.cpp(297): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\gigabyte\source\repos\домашка\домашка\домашка.cpp(591): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
